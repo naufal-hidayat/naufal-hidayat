@@ -4,7 +4,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://urbayz.com/)**
+- 🙋‍♂️ All about me is at **[My Website](https://naufal-hidayat.github.io/)**
 
 - 🌱 I’m currently learning `MERN Stack`
 
@@ -15,8 +15,6 @@
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 
 - ⚡ I waste most of my time for work in front of computer
-
-- 👨‍💻 I'm the founder of **[XploitSec](https://xploitsec.com/)** And **[LinuXploit](https://linuxploit.com/)**
 
 - 😎 I like the genre of `pop punk` music, as well as `rock and indie`
 
